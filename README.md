@@ -1,6 +1,4 @@
 # Home Cleaning Tracker
-App to track cleaning tasks about the house
-
 
 ## What is it
 This website will allow users to track cleaning tasks room by room.
